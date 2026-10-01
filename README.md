@@ -96,6 +96,7 @@ Evaluation is how you know if your AI actually works (and not hallucinating). Th
 
 ### Prompt Evaluation & Safety
 
+- ![](https://img.shields.io/github/stars/pntkrl/ai-prompt-quality?style=social&label=github.com) [**AI Prompt Quality**](https://github.com/pntkrl/ai-prompt-quality) - Static pre-inference prompt evaluation with a seven-dimension rubric, calibration examples, and a JSON scoring schema.
 - ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social&label=github.com) [**AlpacaEval**](https://github.com/tatsu-lab/alpaca_eval) - Automated instruction-following evaluator with length-controlled LLM judge scoring.
 - ![](https://img.shields.io/github/stars/ianarawjo/ChainForge?style=social&label=github.com) [**ChainForge**](https://github.com/ianarawjo/ChainForge) - Visual IDE for comparing prompts, sampling models, and scoring batches with rubrics.
 - ![](https://img.shields.io/github/stars/ShreyaR/guardrails?style=social&label=github.com) [**Guardrails AI**](https://github.com/ShreyaR/guardrails) - Declarative validation framework that enforces schemas, correction chains, and judgments.
